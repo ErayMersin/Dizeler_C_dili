@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Dizeler\Dizeler\Kaynak.c(11,11): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\eray\source\repos\Dizeler\Dizeler\Kaynak.c(11,11): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\eray\source\repos\Dizeler\Dizeler\Kaynak.c(11,11): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\eray\source\repos\Dizeler\Dizeler\Kaynak.c(11,11): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+  Dizeler.vcxproj -> C:\Users\eray\source\repos\Dizeler\x64\Debug\Dizeler.exe
